@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/fragment_syllabus.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/fragment_syllabus.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/fragment_gallery.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/fragment_learning_modules.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/fragment_learning_modules.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/app_bar_main.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/fragment_slideshow.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/fragment_start_here.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/fragment_start_here.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/content_main.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-48:/layout/nav_header_main.xml",
+        "source": "com.example.finalmsdproject.app-main-51:/layout/nav_header_main.xml"
+    }
+]
