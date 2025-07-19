@@ -6,7 +6,7 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_start_here"
-            android:icon="@drawable/ic_baseline_play_circle_24"
+            android:icon="@drawable/start_circle"
             android:title="Start Here" />
         <item
             android:id="@+id/nav_learning_modules"
