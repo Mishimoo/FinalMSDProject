@@ -32,6 +32,7 @@ drawable side_nav_bar
 drawable start_circle
 id action_homeFragment_to_syllabusFragment
 id action_settings
+id action_sign_out
 id app_bar_main
 id avatar1
 id avatar2
@@ -51,6 +52,7 @@ id firstNameInput
 id homeFragment
 id homeTitle
 id lastNameInput
+id lessonsButton
 id loginBtn
 id loginLogo
 id loginRedirect

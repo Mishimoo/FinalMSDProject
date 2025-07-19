@@ -1,5 +1,6 @@
 package com.example.finalmsdproject
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.Menu
 import android.widget.ImageView
@@ -12,6 +13,7 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import com.example.finalmsdproject.activities.LoginActivity
 import com.example.finalmsdproject.databinding.ActivityMainBinding
 import com.example.finalmsdproject.models.User
 import com.google.android.material.navigation.NavigationView
@@ -77,6 +79,19 @@ class MainActivity : AppCompatActivity() {
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         menuInflater.inflate(R.menu.main, menu)
         return true
+    }
+    //function to sign out users and return them to the log in screen
+    override fun onOptionsItemSelected(item: android.view.MenuItem): Boolean {
+        return when (item.itemId) {
+            R.id.action_sign_out -> {
+                // Sign out and return to login screen
+                com.google.firebase.auth.FirebaseAuth.getInstance().signOut()
+                startActivity(Intent(this, LoginActivity::class.java))
+                finish()
+                true
+            }
+            else -> super.onOptionsItemSelected(item)
+        }
     }
 
     override fun onSupportNavigateUp(): Boolean {

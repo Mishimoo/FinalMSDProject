@@ -3238,6 +3238,7 @@ int id action_mode_bar 0x7f080041
 int id action_mode_bar_stub 0x7f080042
 int id action_mode_close_button 0x7f080043
 int id action_settings 0x7f080044
+int id action_sign_out 0x7f080235
 int id action_text 0x7f080045
 int id actions 0x7f080046
 int id activity_chooser_view_content 0x7f080047
@@ -3436,6 +3437,7 @@ int id layout 0x7f080107
 int id left 0x7f080108
 int id leftToRight 0x7f080109
 int id legacy 0x7f08010a
+int id lessonsButton 0x7f080236
 int id light 0x7f08010b
 int id line1 0x7f08010c
 int id line3 0x7f08010d
