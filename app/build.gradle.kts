@@ -2,8 +2,7 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     //used for firebase connection
-    id("com.android.application")
-    id("com.google.gms.google-services")
+    //id("com.google.gms.google-services")
 }
 
 android {
@@ -55,5 +54,5 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     //firebase implementation
-    implementation("com.google.firebase:firebase-auth:22.1.1")
+    //implementation("com.google.firebase:firebase-auth:22.1.1")
 }

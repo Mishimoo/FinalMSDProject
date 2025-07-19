@@ -12,9 +12,6 @@ buildscript {
 }
 
 allprojects {
-    repositories {
-        google()
-        mavenCentral()
-    }
+
 }
 //used for firebase connection (login handeling) ^
