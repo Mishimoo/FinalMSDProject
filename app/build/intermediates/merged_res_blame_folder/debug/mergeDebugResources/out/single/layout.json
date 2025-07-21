@@ -1,62 +1,54 @@
 [
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\fragment_learning_modules.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\fragment_learning_modules.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_start_here.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_start_here.xml"
     },
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\app_bar_main.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\app_bar_main.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/nav_header_main.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/nav_header_main.xml"
     },
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\fragment_syllabus.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\fragment_syllabus.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_slideshow.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\nav_header_main.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\nav_header_main.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_home.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\fragment_gallery.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\fragment_gallery.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/content_main.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/content_main.xml"
     },
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\fragment_start_here.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\fragment_start_here.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/activity_main.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\content_main.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\content_main.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_learning_modules.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_learning_modules.xml"
     },
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\fragment_slideshow.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\fragment_slideshow.xml"
-    },
-    {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\activity_register.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\activity_register.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/app_bar_main.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/app_bar_main.xml"
     },
     {
         "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/activity_register.xml",
         "source": "com.example.finalmsdproject.app-main-61:/layout/activity_register.xml"
     },
     {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_gallery.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_gallery.xml"
+    },
+    {
         "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/activity_login.xml",
         "source": "com.example.finalmsdproject.app-main-61:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\fragment_home.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/activity_complete_profile.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/activity_complete_profile.xml"
     },
     {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\activity_complete_profile.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\activity_complete_profile.xml"
-    },
-    {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\activity_login.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-58:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\mishr\\.gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-61:\\layout\\activity_main.xml"
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_syllabus.xml",
+        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_syllabus.xml"
     }
 ]

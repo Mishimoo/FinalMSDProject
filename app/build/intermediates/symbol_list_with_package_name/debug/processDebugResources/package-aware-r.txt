@@ -3438,7 +3438,6 @@ id layout
 id left
 id leftToRight
 id legacy
-id lessonsButton
 id light
 id line1
 id line3

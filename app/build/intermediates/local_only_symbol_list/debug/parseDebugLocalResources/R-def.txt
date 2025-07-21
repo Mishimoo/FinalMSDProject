@@ -52,7 +52,6 @@ id firstNameInput
 id homeFragment
 id homeTitle
 id lastNameInput
-id lessonsButton
 id loginBtn
 id loginLogo
 id loginRedirect

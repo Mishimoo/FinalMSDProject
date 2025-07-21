@@ -1,75 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="48dp"
-        android:gravity="center"
-        android:text="Start Here"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <LinearLayout
-        android:layout_width="409dp"
-        android:layout_height="489dp"
         android:orientation="vertical"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/btnWelcome"
+            android:text="Welcome to the class"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="#00B8D4"
-            android:text="Welcome"
-            android:textSize="16sp" />
-
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="35dp" />
+            android:layout_height="wrap_content" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/btnSyllabus"
+            android:text="SYLLABUS"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="#0091EA"
-            android:text="Syllabus"
-            android:textSize="16sp" />
-
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="35dp" />
+            android:layout_height="wrap_content" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/btnFaqs"
+            android:text="FAQs"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="#2962FF"
-            android:text="Lab Report Instructions"
-            android:textSize="16sp" />
-
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="35dp" />
+            android:layout_height="wrap_content" />
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/btnLabInstructions"
+            android:text="Lab Report Instruction"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:backgroundTint="#304FFE"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/btnProjectInstructions"
             android:text="Project Instructions"
-            android:textSize="16sp" />
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
     </LinearLayout>
-
-</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

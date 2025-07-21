@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L1: Course Intro and Kotlin Basics" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L2: Functions" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L3: Class and Objects" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L4: Build your first Android app" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L5: Layouts" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L6: App Navigation" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L7: Activity and Fragment Lifecycle" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L8: App Architecture (UI Layer)" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L9: App Architecture (Persistence Layer)" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L10: Advanced RecyclerView use cases" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L11: Connect to the Internet" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L12: Repository pattern and WorkManager" />
+        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L13: App UI Design" />
+
+    </LinearLayout>
+</ScrollView>
