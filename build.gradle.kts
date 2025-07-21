@@ -7,11 +7,10 @@ plugins {
 //used for firebase connection (login handeling)
 buildscript {
     dependencies {
-        classpath("com.google.gms:google-services:4.3.15")
+        classpath("com.google.gms:google-services:4.4.0")
     }
 }
 
 allprojects {
 
 }
-//used for firebase connection (login handeling) ^
