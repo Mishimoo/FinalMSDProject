@@ -1,54 +1,66 @@
 [
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_start_here.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_start_here.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\fragment_lessons.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\fragment_lessons.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/nav_header_main.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/nav_header_main.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\item_lesson.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\item_lesson.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_slideshow.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_slideshow.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\fragment_start_here.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\fragment_start_here.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_home.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_home.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\content_main.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\content_main.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/content_main.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/content_main.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\nav_header_main.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/activity_main.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/activity_main.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\fragment_learning_modules.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\fragment_learning_modules.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_learning_modules.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_learning_modules.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\fragment_home.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/app_bar_main.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/app_bar_main.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\app_bar_main.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/activity_register.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/activity_register.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\fragment_slideshow.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\fragment_slideshow.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_gallery.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_gallery.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/activity_login.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/activity_login.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\fragment_gallery.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/activity_complete_profile.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/activity_complete_profile.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\activity_complete_profile.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\activity_complete_profile.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-58:/layout/fragment_syllabus.xml",
-        "source": "com.example.finalmsdproject.app-main-61:/layout/fragment_syllabus.xml"
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\fragment_syllabus.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\fragment_syllabus.xml"
+    },
+    {
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\activity_login.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\activity_register.xml",
+        "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "com.example.finalmsdproject.app-mergeDebugResources-4:/layout/fragment_home.xml",
+        "source": "com.example.finalmsdproject.app-main-7:/layout/fragment_home.xml"
     }
 ]

@@ -4,8 +4,8 @@ package com.example.finalmsdproject.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.ScrollView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -22,6 +22,45 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final TextView announcementDescription1;
+
+  @NonNull
+  public final TextView announcementDescription2;
+
+  @NonNull
+  public final TextView announcementDescription3;
+
+  @NonNull
+  public final TextView announcementDescription4;
+
+  @NonNull
+  public final TextView announcementDescription5;
+
+  @NonNull
+  public final TextView announcementDescription6;
+
+  @NonNull
+  public final TextView announcementTitle;
+
+  @NonNull
+  public final TextView announcementTitle1;
+
+  @NonNull
+  public final TextView announcementTitle2;
+
+  @NonNull
+  public final TextView announcementTitle3;
+
+  @NonNull
+  public final TextView announcementTitle4;
+
+  @NonNull
+  public final TextView announcementTitle5;
+
+  @NonNull
+  public final TextView announcementTitle6;
+
+  @NonNull
   public final TextView courseDescription;
 
   @NonNull
@@ -31,16 +70,36 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final TextView homeTitle;
 
   @NonNull
-  public final Button startButton;
+  public final ScrollView scrollView2;
 
   private FragmentHomeBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView courseDescription, @NonNull ImageView courseImage,
-      @NonNull TextView homeTitle, @NonNull Button startButton) {
+      @NonNull TextView announcementDescription1, @NonNull TextView announcementDescription2,
+      @NonNull TextView announcementDescription3, @NonNull TextView announcementDescription4,
+      @NonNull TextView announcementDescription5, @NonNull TextView announcementDescription6,
+      @NonNull TextView announcementTitle, @NonNull TextView announcementTitle1,
+      @NonNull TextView announcementTitle2, @NonNull TextView announcementTitle3,
+      @NonNull TextView announcementTitle4, @NonNull TextView announcementTitle5,
+      @NonNull TextView announcementTitle6, @NonNull TextView courseDescription,
+      @NonNull ImageView courseImage, @NonNull TextView homeTitle,
+      @NonNull ScrollView scrollView2) {
     this.rootView = rootView;
+    this.announcementDescription1 = announcementDescription1;
+    this.announcementDescription2 = announcementDescription2;
+    this.announcementDescription3 = announcementDescription3;
+    this.announcementDescription4 = announcementDescription4;
+    this.announcementDescription5 = announcementDescription5;
+    this.announcementDescription6 = announcementDescription6;
+    this.announcementTitle = announcementTitle;
+    this.announcementTitle1 = announcementTitle1;
+    this.announcementTitle2 = announcementTitle2;
+    this.announcementTitle3 = announcementTitle3;
+    this.announcementTitle4 = announcementTitle4;
+    this.announcementTitle5 = announcementTitle5;
+    this.announcementTitle6 = announcementTitle6;
     this.courseDescription = courseDescription;
     this.courseImage = courseImage;
     this.homeTitle = homeTitle;
-    this.startButton = startButton;
+    this.scrollView2 = scrollView2;
   }
 
   @Override
@@ -70,6 +129,84 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.announcementDescription1;
+      TextView announcementDescription1 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementDescription1 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementDescription2;
+      TextView announcementDescription2 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementDescription2 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementDescription3;
+      TextView announcementDescription3 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementDescription3 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementDescription4;
+      TextView announcementDescription4 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementDescription4 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementDescription5;
+      TextView announcementDescription5 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementDescription5 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementDescription6;
+      TextView announcementDescription6 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementDescription6 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementTitle;
+      TextView announcementTitle = ViewBindings.findChildViewById(rootView, id);
+      if (announcementTitle == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementTitle1;
+      TextView announcementTitle1 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementTitle1 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementTitle2;
+      TextView announcementTitle2 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementTitle2 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementTitle3;
+      TextView announcementTitle3 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementTitle3 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementTitle4;
+      TextView announcementTitle4 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementTitle4 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementTitle5;
+      TextView announcementTitle5 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementTitle5 == null) {
+        break missingId;
+      }
+
+      id = R.id.announcementTitle6;
+      TextView announcementTitle6 = ViewBindings.findChildViewById(rootView, id);
+      if (announcementTitle6 == null) {
+        break missingId;
+      }
+
       id = R.id.courseDescription;
       TextView courseDescription = ViewBindings.findChildViewById(rootView, id);
       if (courseDescription == null) {
@@ -88,14 +225,17 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.startButton;
-      Button startButton = ViewBindings.findChildViewById(rootView, id);
-      if (startButton == null) {
+      id = R.id.scrollView2;
+      ScrollView scrollView2 = ViewBindings.findChildViewById(rootView, id);
+      if (scrollView2 == null) {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, courseDescription, courseImage,
-          homeTitle, startButton);
+      return new FragmentHomeBinding((ConstraintLayout) rootView, announcementDescription1,
+          announcementDescription2, announcementDescription3, announcementDescription4,
+          announcementDescription5, announcementDescription6, announcementTitle, announcementTitle1,
+          announcementTitle2, announcementTitle3, announcementTitle4, announcementTitle5,
+          announcementTitle6, courseDescription, courseImage, homeTitle, scrollView2);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

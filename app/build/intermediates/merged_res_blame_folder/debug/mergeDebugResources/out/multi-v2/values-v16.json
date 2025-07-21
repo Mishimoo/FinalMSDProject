@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.finalmsdproject.app-mergeDebugResources-57:/values-v16/values-v16.xml",
+            "outputFile": "com.example.finalmsdproject.app-mergeDebugResources-3:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Rckless C\\.gradle\\caches\\8.11.1\\transforms\\ddb15ab9d4580d4d6cd1df0500fea9c4\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "source": "D:\\Gradle\\caches\\8.11.1\\transforms\\ddb15ab9d4580d4d6cd1df0500fea9c4\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

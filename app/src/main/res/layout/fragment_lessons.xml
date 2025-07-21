@@ -9,7 +9,10 @@
         android:layout_height="wrap_content"
         android:padding="16dp">
 
-        <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L1: Course Intro and Kotlin Basics" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="L1: Course Intro and Kotlin Basics" />
         <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L2: Functions" />
         <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L3: Class and Objects" />
         <Button android:layout_width="match_parent" android:layout_height="wrap_content" android:text="L4: Build your first Android app" />

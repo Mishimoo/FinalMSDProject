@@ -33,12 +33,6 @@ class HomeFragment : Fragment() {
         binding.homeTitle.text = "D2L"
         binding.courseDescription.text = "Desire 2 Learn"
 
-        // Handle button click
-        binding.startButton.setOnClickListener {
-            findNavController().navigate(R.id.action_homeFragment_to_syllabusFragment)
-        }
-
-
         return root
     }
 
