@@ -7,10 +7,10 @@
         <item
             android:id="@+id/nav_start_here"
             android:icon="@drawable/start_circle"
-            android:title="Start Here" />
+            android:title="@string/menu_starthere" />
         <item
             android:id="@+id/nav_learning_modules"
             android:icon="@drawable/baseline_menu_book_24"
-            android:title="Learning Modules" />
+            android:title="@string/menu_learningmodules" />
     </group>
 </menu>

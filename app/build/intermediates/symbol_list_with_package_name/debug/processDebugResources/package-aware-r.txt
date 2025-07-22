@@ -3400,7 +3400,6 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
-id fab
 id fade
 id fill
 id fill_horizontal
@@ -3535,12 +3534,10 @@ id navHeaderEmail
 id navHeaderImage
 id navHeaderName
 id nav_controller_view_tag
-id nav_gallery
 id nav_home
 id nav_host_fragment_container
 id nav_host_fragment_content_main
 id nav_learning_modules
-id nav_slideshow
 id nav_start_here
 id nav_view
 id navigation_bar_item_active_indicator_view
@@ -3669,6 +3666,7 @@ id src_in
 id src_over
 id standard
 id start
+id startHereTitle
 id startHorizontal
 id startToEnd
 id startVertical
@@ -4107,7 +4105,9 @@ string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
 string menu_gallery
 string menu_home
+string menu_learningmodules
 string menu_slideshow
+string menu_starthere
 string mtrl_badge_numberless_content_description
 string mtrl_checkbox_button_icon_path_checked
 string mtrl_checkbox_button_icon_path_group_name

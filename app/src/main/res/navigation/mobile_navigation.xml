@@ -12,14 +12,14 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.finalmsdproject.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_start_here"
+        android:name="com.example.finalmsdproject.ui.starthere.StartHereFragment"
+        android:label="@string/menu_starthere"
+        tools:layout="@layout/fragment_start_here" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.finalmsdproject.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_learning_modules"
+        android:name="com.example.finalmsdproject.ui.Lessons.LessonsFragment"
+        android:label="@string/menu_learningmodules"
+        tools:layout="@layout/fragment_lessons" />
 </navigation>

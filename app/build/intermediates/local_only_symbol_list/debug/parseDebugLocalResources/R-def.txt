@@ -68,7 +68,6 @@ id courseDescription
 id courseImage
 id drawer_layout
 id emailInput
-id fab
 id firstNameInput
 id homeFragment
 id homeTitle
@@ -80,11 +79,9 @@ id mobile_navigation
 id navHeaderEmail
 id navHeaderImage
 id navHeaderName
-id nav_gallery
 id nav_home
 id nav_host_fragment_content_main
 id nav_learning_modules
-id nav_slideshow
 id nav_start_here
 id nav_view
 id passwordInput
@@ -93,6 +90,7 @@ id registerBtn
 id registerRedirect
 id scrollView2
 id selectProfileText
+id startHereTitle
 id syllabusFragment
 id syllabusTitle
 id textView2
@@ -132,7 +130,9 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string menu_gallery
 string menu_home
+string menu_learningmodules
 string menu_slideshow
+string menu_starthere
 string nav_header_desc
 string nav_header_subtitle
 string nav_header_title
