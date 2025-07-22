@@ -3029,6 +3029,7 @@ drawable avatar_border_selected
 drawable avatar_border_unselected
 drawable avd_hide_password
 drawable avd_show_password
+drawable baseline_home_24
 drawable baseline_menu_book_24
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -3666,7 +3667,6 @@ id src_in
 id src_over
 id standard
 id start
-id startHereTitle
 id startHorizontal
 id startToEnd
 id startVertical

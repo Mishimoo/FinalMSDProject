@@ -16,10 +16,6 @@
         "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\content_main.xml"
     },
     {
-        "merged": "com.example.finalmsdproject.app-mergeDebugResources-4:/layout/app_bar_main.xml",
-        "source": "com.example.finalmsdproject.app-main-7:/layout/app_bar_main.xml"
-    },
-    {
         "merged": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-mergeDebugResources-4:\\layout\\nav_header_main.xml",
         "source": "D:\\Gradle\\daemon\\8.11.1\\com.example.finalmsdproject.app-main-7:\\layout\\nav_header_main.xml"
     },

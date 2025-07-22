@@ -6,7 +6,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ScrollView;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -32,18 +31,14 @@ public final class FragmentStartHereBinding implements ViewBinding {
   @NonNull
   public final Button btnWelcome;
 
-  @NonNull
-  public final TextView startHereTitle;
-
   private FragmentStartHereBinding(@NonNull ScrollView rootView, @NonNull Button btnLabInstructions,
       @NonNull Button btnProjectInstructions, @NonNull Button btnSyllabus,
-      @NonNull Button btnWelcome, @NonNull TextView startHereTitle) {
+      @NonNull Button btnWelcome) {
     this.rootView = rootView;
     this.btnLabInstructions = btnLabInstructions;
     this.btnProjectInstructions = btnProjectInstructions;
     this.btnSyllabus = btnSyllabus;
     this.btnWelcome = btnWelcome;
-    this.startHereTitle = startHereTitle;
   }
 
   @Override
@@ -97,14 +92,8 @@ public final class FragmentStartHereBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.startHereTitle;
-      TextView startHereTitle = ViewBindings.findChildViewById(rootView, id);
-      if (startHereTitle == null) {
-        break missingId;
-      }
-
       return new FragmentStartHereBinding((ScrollView) rootView, btnLabInstructions,
-          btnProjectInstructions, btnSyllabus, btnWelcome, startHereTitle);
+          btnProjectInstructions, btnSyllabus, btnWelcome);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -9,19 +9,6 @@
         android:orientation="vertical"
         android:padding="16dp">
 
-        <TextView
-            android:id="@+id/startHereTitle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="Start Here"
-            android:textSize="24sp"
-            android:textStyle="bold" />
-
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="25dp" />
-
         <Button
             android:id="@+id/btnWelcome"
             android:layout_width="match_parent"

@@ -20,6 +20,7 @@ drawable avatar5
 drawable avatar6
 drawable avatar_border_selected
 drawable avatar_border_unselected
+drawable baseline_home_24
 drawable baseline_menu_book_24
 drawable course
 drawable default_profile
@@ -90,7 +91,6 @@ id registerBtn
 id registerRedirect
 id scrollView2
 id selectProfileText
-id startHereTitle
 id syllabusFragment
 id syllabusTitle
 id textView2
