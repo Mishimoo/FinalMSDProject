@@ -10,6 +10,8 @@
     <string name="menu_home">Home</string>
     <string name="menu_starthere">Start Here</string>
     <string name="menu_learningmodules">Learning Modules</string>
+    <string name="menu_welcome">Welcome</string>
+
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="full_name_format">%1$s %2$s</string>
